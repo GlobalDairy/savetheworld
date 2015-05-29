@@ -1,0 +1,18 @@
+{
+  "name": "APES Final",
+  "version": "1.0.0",
+  "description": "We're out to save the enviroment, the wonderful enviroment of earth",
+  "main": "index.html",
+  "authors": [
+    "Jasper Fung & Peter Coish"
+  ],
+  "license": "MIT",
+  "homepage": "https://globaldairy.github.io/savetheworld/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
