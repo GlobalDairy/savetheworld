@@ -7,14 +7,28 @@ body {
     background: #194F5A; }
     /* line 7, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
     body #maincontent-container #slide-1 .inner-slide {
-      height: 100%; }
-    /* line 9, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+      height: 100%;
+      position: relative;
+      top: 200px; }
+      /* line 11, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+      body #maincontent-container #slide-1 .inner-slide #col2 {
+        top: 300px; }
+      /* line 13, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+      body #maincontent-container #slide-1 .inner-slide h1 {
+        font-size: 5em; }
+      /* line 15, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+      body #maincontent-container #slide-1 .inner-slide p {
+        font-size: 2.5em; }
+      /* line 17, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+      body #maincontent-container #slide-1 .inner-slide .text-panel {
+        margin-top: 300px; }
+    /* line 19, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
     body #maincontent-container #slide-1 .center-col {
-      height: 6861px;
+      height: 6880px;
       background-image: url("https://github.com/GlobalDairy/savetheworld/blob/gh-pages/img/arrow.png?raw=true");
       background-position: center top;
       background-repeat: no-repeat; }
-  /* line 14, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+  /* line 24, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
   body #footer {
     background: #FFFFFF;
     width: 100vw; }
