@@ -30,6 +30,11 @@ body {
       background-repeat: no-repeat; }
   /* line 24, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
   body #footer {
+    padding-top: 10px;
     background: #FFFFFF; }
+    /* line 25, D:/User Data/Google Drive/Code/APES Final/savetheworld/css/index.sass */
+    body #footer span {
+      color: #000000;
+      padding-bottom: 10px; }
 
 /*# sourceMappingURL=index.css.map */
